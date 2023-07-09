@@ -500,7 +500,7 @@
       }
     ],
     "isBought": 0,
-    "isPrice": "62.640",
+    "isPrice": 62640,
     "give": 2,
     "valueOfGive": 222,
     "refundMoney": "0.4",
@@ -553,7 +553,7 @@
       }
     ],
     "isBought": 3,
-    "isPrice": "62.000",
+    "isPrice": 62000,
     "give": 2,
     "valueOfGive": 222,
     "refundMoney": "0.4",
@@ -606,7 +606,7 @@
       }
     ],
     "isBought": 242,
-    "isPrice": "49.100",
+    "isPrice": 49.100,
     "give": 1,
     "valueOfGive": 176,
     "refundMoney": "0.4",
@@ -668,7 +668,7 @@
       }
     ],
     "isBought": 1200,
-    "isPrice": "265.000",
+    "isPrice": 265000,
     "give": 7,
     "valueOfGive": 951,
     "refundMoney": "0.4",
@@ -730,7 +730,7 @@
       }
     ],
     "isBought": 41,
-    "isPrice": "350.000",
+    "isPrice": 350000,
     "give": 69,
     "valueOfGive": 11,
     "refundMoney": 3,
@@ -783,7 +783,7 @@
       }
     ],
     "isBought": 324,
-    "isPrice": "105.000",
+    "isPrice": 105000,
     "give": 21,
     "valueOfGive": 2,
     "refundMoney": "3.0",
@@ -842,7 +842,7 @@
       }
     ],
     "isBought": 66,
-    "isPrice": "144.990",
+    "isPrice": 144990,
     "give": 4,
     "valueOfGive": 557,
     "refundMoney": "0.4",
@@ -898,7 +898,7 @@
       }
     ],
     "isBought": 498,
-    "isPrice": "79.000",
+    "isPrice": 79000,
     "give": 2,
     "valueOfGive": 304,
     "refundMoney": "0.4",
@@ -960,7 +960,7 @@
       }
     ],
     "isBought": 1200,
-    "isPrice": "132.000",
+    "isPrice": 132000,
     "give": 3,
     "valueOfGive": 507,
     "refundMoney": "0.4",
@@ -1022,7 +1022,7 @@
       }
     ],
     "isBought": 1,
-    "isPrice": "144.500",
+    "isPrice": 144500,
     "give": 4,
     "valueOfGive": 555,
     "refundMoney": "0.4",
@@ -1084,7 +1084,7 @@
       }
     ],
     "isBought": 0,
-    "isPrice": "133.000",
+    "isPrice": 133000,
     "give": 3,
     "valueOfGive": 483,
     "refundMoney": 0.4,
@@ -1137,7 +1137,7 @@
       }
     ],
     "isBought": 426,
-    "isPrice": "825.000",
+    "isPrice": 825000,
     "give": 21,
     "valueOfGive": "3k",
     "refundMoney": "0.4",
@@ -1199,7 +1199,7 @@
       }
     ],
     "isBought": 616,
-    "isPrice": "138.000",
+    "isPrice": 138000,
     "give": 4,
     "valueOfGive": 505,
     "refundMoney": "0.4",
@@ -1261,7 +1261,7 @@
       }
     ],
     "isBought": 1001,
-    "isPrice": "235.000",
+    "isPrice": 235000,
     "give": 6,
     "valueOfGive": 854,
     "refundMoney": "0.4",
@@ -1323,7 +1323,7 @@
       }
     ],
     "isBought": 1001,
-    "isPrice": "487.000",
+    "isPrice": 487000,
     "give": 95,
     "valueOfGive": "14k",
     "refundMoney": "2.8",
@@ -1385,7 +1385,7 @@
       }
     ],
     "isBought": 123,
-    "isPrice": "110.000",
+    "isPrice": 110000,
     "give": 3,
     "valueOfGive": 400,
     "refundMoney": "0.4",
@@ -1447,7 +1447,7 @@
       }
     ],
     "isBought": 4,
-    "isPrice": "148.500",
+    "isPrice": 148500,
     "give": 4,
     "valueOfGive": 567,
     "refundMoney": 0.4,
@@ -1500,7 +1500,7 @@
       }
     ],
     "isBought": 0,
-    "isPrice": "76.500",
+    "isPrice": 76500,
     "give": 2,
     "valueOfGive": "292",
     "refundMoney": "0.4",
@@ -1562,7 +1562,7 @@
       }
     ],
     "isBought": 778,
-    "isPrice": "52.105",
+    "isPrice": 52105,
     "give": 2,
     "valueOfGive": 234,
     "refundMoney": "0.4",
@@ -1624,7 +1624,7 @@
       }
     ],
     "isBought": 1001,
-    "isPrice": "96.000",
+    "isPrice": 96000,
     "give": 21,
     "valueOfGive": "3k",
     "refundMoney": "3.0",
@@ -1686,7 +1686,7 @@
       }
     ],
     "isBought": 0,
-    "isPrice": "114.000",
+    "isPrice": 114000,
     "give": 22,
     "valueOfGive": "3k",
     "refundMoney": "3.0",
@@ -1748,7 +1748,7 @@
       }
     ],
     "isBought": 1001,
-    "isPrice": "5.000",
+    "isPrice": 5000,
     "give": 3,
     "valueOfGive": 400,
     "refundMoney": "0.4",
