@@ -313,7 +313,7 @@
   "giaTotHomNay": [
     {
       "id": 1,
-      "hinhAnh": "/giaTotHomNay_img/item_1.jpg",
+      "hinhAnh": "./giaTotHomNay_img/item_1.jpg",
       "fast": "./giaTotHomNay_img/shipperFast.jpg",
       "discount": "12%",
       "price": "52.000",
