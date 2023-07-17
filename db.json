@@ -5971,6 +5971,253 @@
         "nameLabel": "offical"
       }
     ]
+  } ,{
+    "id": 93,
+    "hinhAnh": "/img/danhSach_4/item3.png",
+    "name": "[[Giá rẻ nhất tháng]] Thịt heo xay Meat Master ( 400 G ) - Giao nhanh",
+    "isVote": [
+      {
+        "checkVote": true
+      },
+      {
+        "vote": 4.8
+      }
+    ],
+    "isBought": 778,
+    "isPrice": 52105,
+    "give": 2,
+    "valueOfGive": 234,
+    "refundMoney": "0.4",
+    "astraLabel": [
+      {
+        "checkAstra": false
+      },
+      {
+        "hinhAnhAstra": "./img/desciption/astra.png"
+      },
+      {
+        "nameLabel": "astra"
+      }
+    ],
+    "isShip": [
+      {
+        "checkShipNOW": false
+      },
+      {
+        "shipDate": ""
+      },
+      {
+        "shipDay": ""
+      },
+      {
+        "giaoNhanh": true
+      }
+    ],
+    "isPromote": [
+      {
+        "checkPromote": true
+      },
+      {
+        "promote": -15
+      }
+    ],
+    "isLabel": [
+      {
+        "checkLabel": false
+      },
+      {
+        "label": "./img/desciption/repution.png"
+      },
+      {
+        "nameLabel": "repution"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "hinhAnh": "/img/danhSach_4/item4.png",
+    "name": "Gạo Nhật hữu cơ cao cấp/ECOBA Sakura 1kg - Nấu cháo cho bé ăn dặm - Hạt tròn, cơm mềm dẻo ngọt - 100% Organic",
+    "isVote": [
+      {
+        "checkVote": true
+      },
+      {
+        "vote": 4.95
+      }
+    ],
+    "isBought": 1001,
+    "isPrice": 96000,
+    "give": 21,
+    "valueOfGive": "3k",
+    "refundMoney": "3.0",
+    "astraLabel": [
+      {
+        "checkAstra": true
+      },
+      {
+        "hinhAnhAstra": "./img/desciption/astra.png"
+      },
+      {
+        "nameLabel": "astra"
+      }
+    ],
+    "isShip": [
+      {
+        "checkShipNOW": true
+      },
+      {
+        "shipDate": ""
+      },
+      {
+        "shipDay": ""
+      },
+      {
+        "giaoNhanh": false
+      }
+    ],
+    "isPromote": [
+      {
+        "checkPromote": true
+      },
+      {
+        "promote": -9
+      }
+    ],
+    "isLabel": [
+      {
+        "checkLabel": true
+      },
+      {
+        "label": "./img/desciption/offical.png"
+      },
+      {
+        "nameLabel": "offical"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "hinhAnh": "/img/danhSach_4/item5.png",
+    "name": "Bánh phồng Cua Cà Mau - NACAMA - Túi 150 GRAM",
+    "isVote": [
+      {
+        "checkVote": false
+      },
+      {
+        "vote": 4.7
+      }
+    ],
+    "isBought": 0,
+    "isPrice": 114000,
+    "give": 22,
+    "valueOfGive": "3k",
+    "refundMoney": "3.0",
+    "astraLabel": [
+      {
+        "checkAstra": true
+      },
+      {
+        "hinhAnhAstra": "./img/desciption/astra.png"
+      },
+      {
+        "nameLabel": "astra"
+      }
+    ],
+    "isShip": [
+      {
+        "checkShipNOW": true
+      },
+      {
+        "shipDate": ""
+      },
+      {
+        "shipDay": "  "
+      },
+      {
+        "giaoNhanh": false
+      }
+    ],
+    "isPromote": [
+      {
+        "checkPromote": true
+      },
+      {
+        "promote": -16
+      }
+    ],
+    "isLabel": [
+      {
+        "checkLabel": true
+      },
+      {
+        "label": "./img/desciption/offical.png"
+      },
+      {
+        "nameLabel": "offical"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "hinhAnh": "/img/danhSach_4/item6.png",
+    "name": "[Mẫu thử] Trà Long Nhãn, Táo Đỏ, Kỳ Tử Dưỡng Tâm Mộc Sắc SIÊU THỊ THIÊN NHIÊN Giúp Cải Thiện Sức Khỏe 1 Gói",
+    "isVote": [
+      {
+        "checkVote": true
+      },
+      {
+        "vote": 4.95
+      }
+    ],
+    "isBought": 1001,
+    "isPrice": 5000,
+    "give": 3,
+    "valueOfGive": 400,
+    "refundMoney": "0.4",
+    "astraLabel": [
+      {
+        "checkAstra": true
+      },
+      {
+        "hinhAnhAstra": "./img/desciption/astra.png"
+      },
+      {
+        "nameLabel": "astra"
+      }
+    ],
+    "isShip": [
+      {
+        "checkShipNOW": false
+      },
+      {
+        "shipDate": "3"
+      },
+      {
+        "shipDay": "19/04"
+      },
+      {
+        "giaoNhanh": false
+      }
+    ],
+    "isPromote": [
+      {
+        "checkPromote": true
+      },
+      {
+        "promote": -8
+      }
+    ],
+    "isLabel": [
+      {
+        "checkLabel": true
+      },
+      {
+        "label": "./img/desciption/offical.png"
+      },
+      {
+        "nameLabel": "offical"
+      }
+    ]
   } 
     
   ]
