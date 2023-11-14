@@ -5,7 +5,7 @@
       "title": "Giá tốt mỗi ngày",
       "desc": "giaToiMoiNgay",
       "item": "Nổi bật",
-      "imgSrc": "./img/noiBat/giaToiMoiNgay.jpg"
+      "imgSrc": "file:///C:/Users/datla/OneDrive/M%C3%A1y%20t%C3%ADnh/2023/Thang_4/14_04_2023/tiki/src/assets/img/SideBar/NoiBat/giaToiMoiNgay.jpg"
     },
 
     {
@@ -13,7 +13,7 @@
       "title": "Mã giảm giá",
       "desc": "maGiamGia",
       "item": "Nổi bật",
-      "imgSrc": "./img/noiBat/maGiamGia.jpg"
+      "imgSrc": "file:///C:/Users/datla/OneDrive/M%C3%A1y%20t%C3%ADnh/2023/Thang_4/14_04_2023/tiki/src/assets/img/SideBar/NoiBat/maGiamGia.jpg"
     },
 
     {
@@ -29,7 +29,7 @@
       "title": "Đóng tiền, nạp thẻ",
       "desc": "dongTienNapThe",
       "item": "Nổi bật",
-      "imgSrc": "./img/noiBat/dongTienNapThe.jpg"
+      "imgSrc": "file:///C:/Users/datla/OneDrive/M%C3%A1y%20t%C3%ADnh/2023/Thang_4/14_04_2023/tiki/src/assets/img/SideBar/NoiBat/uaDai.jpg"
     },
 
     {
@@ -37,7 +37,7 @@
       "title": "Mua trước trả sau",
       "desc": "muaTruocTraSau",
       "item": "Nổi bật",
-      "imgSrc": "./img/noiBat/muaTruocTraSau.jpg"
+      "imgSrc": "file:///C:/Users/datla/OneDrive/M%C3%A1y%20t%C3%ADnh/2023/Thang_4/14_04_2023/tiki/src/assets/img/SideBar/NoiBat/muaTruocTraSau.jpg"
     },
 
     {
@@ -45,7 +45,7 @@
       "title": "Ưa đãi thẻ, ví",
       "desc": "uaDaiTheVi",
       "item": "Nổi bật",
-      "imgSrc": "./img/noiBat/uaDaiTheVi.jpg"
+      "imgSrc": "file:///C:/Users/datla/OneDrive/M%C3%A1y%20t%C3%ADnh/2023/Thang_4/14_04_2023/tiki/src/assets/img/SideBar/NoiBat/uaDaiTheVi.jpg"
     },
 
     {
@@ -53,7 +53,7 @@
       "title": "Bảo hiểm Tiki360",
       "desc": "baoHiemTiki360",
       "item": "Nổi bật",
-      "imgSrc": "./img/noiBat/baoHiemTiki360.jpg"
+      "imgSrc": "file:///C:/Users/datla/OneDrive/M%C3%A1y%20t%C3%ADnh/2023/Thang_4/14_04_2023/tiki/src/assets/img/SideBar/NoiBat/baoHiemTiki360.jpg"
     },
 
     {
@@ -61,7 +61,7 @@
       "title": "Tiki Exchange",
       "desc": "tikiExchange",
       "item": "Nổi bật",
-      "imgSrc": "./img/noiBat/tikiExchange.jpg"
+      "imgSrc": "file:///C:/Users/datla/OneDrive/M%C3%A1y%20t%C3%ADnh/2023/Thang_4/14_04_2023/tiki/src/assets/img/SideBar/NoiBat/tikiExchange.jpg"
     }
   ],
   "danhMuc": [
