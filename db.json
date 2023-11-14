@@ -70,7 +70,7 @@
       "title": "Đồ chơi - Mẹ & bé",
       "desc": "doChoiMeVaBe",
       "item": "Danh mục",
-      "imgSrc": "./img/danhMuc/doChoiMeVaBe.jpg"
+      "imgSrc": "img/danhMuc/doChoiMeVaBe.jpg"
     },
 
     {
@@ -78,7 +78,7 @@
       "title": "NGON",
       "desc": "ngon",
       "item": "Danh mục",
-      "imgSrc": "./img/danhMuc/ngon.jpg"
+      "imgSrc": "img/danhMuc/ngon.jpg"
     },
 
     {
@@ -86,7 +86,7 @@
       "title": "Điện thoại - Máy tính bảng",
       "desc": "dienThoaiMayTinhBang",
       "item": "Danh mục",
-      "imgSrc": "./img/danhMuc/dienThoaiMayTinhBang.jpg"
+      "imgSrc": "img/danhMuc/dienThoaiMayTinhBang.jpg"
     },
 
     {
@@ -94,7 +94,7 @@
       "title": "Làm đẹp - sức khỏe",
       "desc": "lamDepSucKhoe",
       "item": "Danh mục",
-      "imgSrc": "./img/danhMuc/lamDepSucKhoe.jpg"
+      "imgSrc": "img/danhMuc/lamDepSucKhoe.jpg"
     },
 
     {
@@ -102,7 +102,7 @@
       "title": "Điện gia dụng",
       "desc": "dienGiaDung",
       "item": "Danh mục",
-      "imgSrc": "./img/danhMuc/dienGiaDung.jpg"
+      "imgSrc": "img/danhMuc/dienGiaDung.jpg"
     },
 
     {
@@ -110,7 +110,7 @@
       "title": "Thời trang nữ",
       "desc": "thoiTrangNu",
       "item": "Danh mục",
-      "imgSrc": "./img/danhMuc/thoiTrangNu.jpg"
+      "imgSrc": "img/danhMuc/thoiTrangNu.jpg"
     },
 
     {
@@ -118,7 +118,7 @@
       "title": "Thời trang nam",
       "desc": "thoiTrangNam",
       "item": "Danh mục",
-      "imgSrc": "./img/danhMuc/thoiTrangNam.jpg"
+      "imgSrc": "img/danhMuc/thoiTrangNam.jpg"
     },
 
     {
@@ -126,7 +126,7 @@
       "title": "Giày - dép nữ",
       "desc": "giayDepNu",
       "item": "Danh mục",
-      "imgSrc": "./img/danhMuc/giayDepNu.jpg"
+      "imgSrc": "img/danhMuc/giayDepNu.jpg"
     },
 
     {
@@ -134,7 +134,7 @@
       "title": "Túi thời trang nữ",
       "desc": "tuiThoiTrangNu",
       "item": "Danh mục",
-      "imgSrc": "./img/danhMuc/tuiThoiTrangNu.jpg"
+      "imgSrc": "img/danhMuc/tuiThoiTrangNu.jpg"
     },
 
     {
@@ -142,7 +142,7 @@
       "title": "Giày - dép nam",
       "desc": "giayDepNam",
       "item": "Danh mục",
-      "imgSrc": "./img/danhMuc/giayDepNam.jpg"
+      "imgSrc": "img/danhMuc/giayDepNam.jpg"
     },
 
     {
@@ -150,7 +150,7 @@
       "title": "Túi thời trang nam",
       "desc": "tuiThoiTrangNam",
       "item": "Danh mục",
-      "imgSrc": "./img/danhMuc/tuiThoiTrangNam.jpg"
+      "imgSrc": "img/danhMuc/tuiThoiTrangNam.jpg"
     },
 
     {
@@ -158,7 +158,7 @@
       "title": "Balo và Vali",
       "desc": "baloVaVali",
       "item": "Danh mục",
-      "imgSrc": "./img/danhMuc/baloVaVali.jpg"
+      "imgSrc": "img/danhMuc/baloVaVali.jpg"
     },
 
     {
@@ -166,7 +166,7 @@
       "title": "Phụ kiện thời trang",
       "desc": "phuKienThoiTrang",
       "item": "Danh mục",
-      "imgSrc": "./img/danhMuc/phuKienThoiTrang.jpg"
+      "imgSrc": "img/danhMuc/phuKienThoiTrang.jpg"
     },
 
     {
@@ -174,7 +174,7 @@
       "title": "Đồng hồ và trang sức",
       "desc": "dongHoVaTrangSuc",
       "item": "Danh mục",
-      "imgSrc": "./img/danhMuc/dongHoVaTrangSuc.jpg"
+      "imgSrc": "img/danhMuc/dongHoVaTrangSuc.jpg"
     },
 
     {
@@ -182,7 +182,7 @@
       "title": "Laptop - Máy vi tính - Linh kiện",
       "desc": "laptopMayViTinhLinhKien",
       "item": "Danh mục",
-      "imgSrc": "./img/danhMuc/laptopMayViTinhLinhKien.jpg"
+      "imgSrc": "img/danhMuc/laptopMayViTinhLinhKien.jpg"
     },
 
     {
@@ -190,7 +190,7 @@
       "title": "Nhà cửa - Đời sống",
       "desc": "nhaCuaDoiSong",
       "item": "Danh mục",
-      "imgSrc": "./img/danhMuc/nhaCuaDoiSong.jpg"
+      "imgSrc": "img/danhMuc/nhaCuaDoiSong.jpg"
     },
 
     {
@@ -198,7 +198,7 @@
       "title": "Cross Border",
       "desc": "hangQuocTe",
       "item": "Danh mục",
-      "imgSrc": "./img/danhMuc/hangQuocTe.jpg"
+      "imgSrc": "img/danhMuc/hangQuocTe.jpg"
     },
 
     {
@@ -206,7 +206,7 @@
       "title": "Bách Hóa Online",
       "desc": "bachHoaOnline",
       "item": "Danh mục",
-      "imgSrc": "./img/danhMuc/bachHoaOnline.jpg"
+      "imgSrc": "img/danhMuc/bachHoaOnline.jpg"
     },
 
     {
@@ -214,7 +214,7 @@
       "title": "Thiết bị số - Phụ kiện số",
       "desc": "thietBiSoVaPhuKienSo",
       "item": "Danh mục",
-      "imgSrc": "./img/danhMuc/thietBiSoVaPhuKienSo.jpg"
+      "imgSrc": "img/danhMuc/thietBiSoVaPhuKienSo.jpg"
     },
 
     {
@@ -222,7 +222,7 @@
       "title": "Xe hơi - Xe máy - Xe đạp",
       "desc": "otoXeMayVaXeDap",
       "item": "Danh mục",
-      "imgSrc": "./img/danhMuc/otoXeMayVaXeDap.jpg"
+      "imgSrc": "img/danhMuc/otoXeMayVaXeDap.jpg"
     },
 
     {
@@ -230,7 +230,7 @@
       "title": "Nhà sách Tiki",
       "desc": "nhaSachTiki",
       "item": "Danh mục",
-      "imgSrc": "./img/danhMuc/nhaSachTiki.jpg"
+      "imgSrc": "img/danhMuc/nhaSachTiki.jpg"
     },
 
     {
@@ -238,7 +238,7 @@
       "title": "Voucher - Dịch vụ",
       "desc": "voucherVaDichVu",
       "item": "Danh mục",
-      "imgSrc": "./img/danhMuc/voucherVaDichVu.jpg"
+      "imgSrc": "img/danhMuc/voucherVaDichVu.jpg"
     },
 
     {
@@ -246,7 +246,7 @@
       "title": "Điện tử - Điện lạnh",
       "desc": "dienTuDienLanh",
       "item": "Danh mục",
-      "imgSrc": "./img/danhMuc/dienTuDienLanh.jpg"
+      "imgSrc": "img/danhMuc/dienTuDienLanh.jpg"
     },
 
     {
@@ -254,7 +254,7 @@
       "title": "Thể thao - Dã ngoại",
       "desc": "theThaoDaNgoai",
       "item": "Danh mục",
-      "imgSrc": "./img/danhMuc/theThaoDaNgoai.jpg"
+      "imgSrc": "img/danhMuc/theThaoDaNgoai.jpg"
     },
 
     {
@@ -262,7 +262,7 @@
       "title": "Máy ảnh - Máy quay phim",
       "desc": "mayAnhMayQuayPhim",
       "item": "Danh mục",
-      "imgSrc": "./img/danhMuc/mayAnhMayQuayPhim.jpg"
+      "imgSrc": "img/danhMuc/mayAnhMayQuayPhim.jpg"
     },
 
     {
@@ -270,7 +270,7 @@
       "title": "Sản phẩm tài chính - Bảo Hiểm",
       "desc": "sanPhamTaiChinhBaoHiem",
       "item": "Danh mục",
-      "imgSrc": "./img/danhMuc/sanPhamTaiChinhBaoHiem.jpg"
+      "imgSrc": "img/danhMuc/sanPhamTaiChinhBaoHiem.jpg"
     }
   ],
   "thuongHieuChinhHang": [
