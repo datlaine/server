@@ -313,8 +313,8 @@
   "giaTotHomNay": [
     {
       "id": 1,
-      "hinhAnh": "./giaTotHomNay_img/item_1.jpg",
-      "fast": "./giaTotHomNay_img/shipperFast.jpg",
+      "hinhAnh": "GiaTotHomNay/item_1.jpg",
+      "fast": "GiaTotHomNay/shipperFast.jpg",
       "discount": "12%",
       "price": "52.000",
       "isBought": 7
@@ -322,8 +322,8 @@
 
     {
       "id": 2,
-      "hinhAnh": "./giaTotHomNay_img/item_2.jpg",
-      "fast": "./giaTotHomNay_img/shipperFast.jpg",
+      "hinhAnh": "GiaTotHomNay/item_2.jpg",
+      "fast": "GiaTotHomNay/shipperFast.jpg",
       "discount": "29%",
       "price": "127.000",
       "isBought": 10
@@ -331,8 +331,8 @@
 
     {
       "id": 3,
-      "hinhAnh": "./giaTotHomNay_img/item_3.jpg",
-      "fast": "./giaTotHomNay_img/shipperFast.jpg",
+      "hinhAnh": "GiaTotHomNay/item_3.jpg",
+      "fast": "GiaTotHomNay/shipperFast.jpg",
       "discount": "13%",
       "price": "117.000",
       "isBought": 5
@@ -340,8 +340,8 @@
 
     {
       "id": 4,
-      "hinhAnh": "./giaTotHomNay_img/item_4.jpg",
-      "fast": "./giaTotHomNay_img/shipperFast.jpg",
+      "hinhAnh": "GiaTotHomNay/item_4.jpg",
+      "fast": "GiaTotHomNay/shipperFast.jpg",
       "discount": "40%",
       "price": "41.000",
       "isBought": 0
@@ -349,8 +349,8 @@
 
     {
       "id": 5,
-      "hinhAnh": "./giaTotHomNay_img/item_5.jpg",
-      "fast": "./giaTotHomNay_img/shipperFast.jpg",
+      "hinhAnh": "GiaTotHomNay/item_5.jpg",
+      "fast": "GiaTotHomNay/shipperFast.jpg",
       "discount": "41%",
       "price": "109.000",
       "isBought": 1
@@ -358,8 +358,8 @@
 
     {
       "id": 6,
-      "hinhAnh": "./giaTotHomNay_img/item_6.jpg",
-      "fast": "./giaTotHomNay_img/shipperFast.jpg",
+      "hinhAnh": "GiaTotHomNay/item_6.jpg",
+      "fast": "GiaTotHomNay/shipperFast.jpg",
       "discount": "35%",
       "price": "520.000",
       "isBought": 8
@@ -367,8 +367,8 @@
 
     {
       "id": 7,
-      "hinhAnh": "./giaTotHomNay_img/item_7.jpg",
-      "fast": "./giaTotHomNay_img/shipperFast.jpg",
+      "hinhAnh": "GiaTotHomNay/item_7.jpg",
+      "fast": "GiaTotHomNay/shipperFast.jpg",
       "discount": "35%",
       "price": "713.000",
       "isBought": 7
