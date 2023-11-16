@@ -365,14 +365,7 @@
       "isBought": 8
     },
 
-    {
-      "id": 7,
-      "hinhAnh": "GiaTotHomNay/item_7.jpg",
-      "fast": "GiaTotHomNay/shipperFast.jpg",
-      "discount": "35%",
-      "price": "713.000",
-      "isBought": 7
-    }
+
   ],
   "hangThuongHieuGiaTot": [
     {
