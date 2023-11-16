@@ -11,9 +11,7 @@ server.use(jsonServer.rewriter({
     '/blog/:resource/:id/show': '/:resource/:id'
 }))
 
-app.get("/", (req, res) => {
-  res.send("Express on Vercel");
-});
+
 
 server.use(router)
 server.listen(8000, () => {
