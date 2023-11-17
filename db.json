@@ -363,8 +363,111 @@
       "discount": "35%",
       "price": "520.000",
       "isBought": 8
-    }
+    },
+      {
+      "id": 7,
+      "hinhAnh": "GiaTotHomNay/item_7.jpg",
+      "fast": "GiaTotHomNay/shipperFast.jpg",
+      "discount": "12%",
+      "price": "650.000",
+      "isBought": 7
+    },
 
+      {
+      "id": 8,
+      "hinhAnh": "GiaTotHomNay/item_8.jpg",
+      "fast": "GiaTotHomNay/shipperFast.jpg",
+      "discount": "38%",
+      "price": "185.000",
+      "isBought": 7
+    },
+
+      {
+      "id": 9,
+      "hinhAnh": "GiaTotHomNay/item_9.jpg",
+      "fast": "GiaTotHomNay/shipperFast.jpg",
+      "discount": "12%",
+      "price": "651.000",
+      "isBought": 7
+    },
+      {
+      "id": 10,
+      "hinhAnh": "GiaTotHomNay/item_10.jpg",
+      "fast": "GiaTotHomNay/shipperFast.jpg",
+      "discount": "9%",
+      "price": "279.000",
+      "isBought": 5
+    },
+
+      {
+      "id": 11,
+      "hinhAnh": "GiaTotHomNay/item_11.jpg",
+      "fast": "GiaTotHomNay/shipperFast.jpg",
+      "discount": "42%",
+      "price": "126.000",
+      "isBought": 3
+    },
+
+      {
+      "id": 12,
+      "hinhAnh": "GiaTotHomNay/item_12.jpg",
+      "fast": "GiaTotHomNay/shipperFast.jpg",
+      "discount": "38%",
+      "price": "185.000",
+      "isBought": 7
+    },
+
+
+      {
+      "id": 13,
+      "hinhAnh": "GiaTotHomNay/item_13.jpg",
+      "fast": "GiaTotHomNay/shipperFast.jpg",
+      "discount": "25%",
+      "price": "62.000",
+      "isBought":3
+    },
+
+      {
+      "id": 14,
+      "hinhAnh": "GiaTotHomNay/item_14.jpg",
+      "fast": "GiaTotHomNay/shipperFast.jpg",
+      "discount": "158",
+      "price": "250.000",
+      "isBought": 3
+    },
+      {
+      "id": 15,
+      "hinhAnh": "GiaTotHomNay/item_15.jpg",
+      "fast": "GiaTotHomNay/shipperFast.jpg",
+      "discount": "29%",
+      "price": "141.000",
+      "isBought": 7
+    },
+
+      {
+      "id": 16,
+      "hinhAnh": "GiaTotHomNay/item_16.jpg",
+      "fast": "GiaTotHomNay/shipperFast.jpg",
+      "discount": "40%",
+      "price": "459.000",
+      "isBought": 4
+    },
+      {
+      "id": 17,
+      "hinhAnh": "GiaTotHomNay/item_17.jpg",
+      "fast": "GiaTotHomNay/shipperFast.jpg",
+      "discount": "56%",
+      "price": "271.000",
+      "isBought": 2
+    },
+      {
+      "id": 18,
+      "hinhAnh": "GiaTotHomNay/item_18.jpg",
+      "fast": "GiaTotHomNay/shipperFast.jpg",
+      "discount": "42%",
+      "price": "1.039.000",
+      "isBought": 7
+    }
 
   ],
   "hangThuongHieuGiaTot": [
