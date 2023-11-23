@@ -552,37 +552,37 @@
   "goiYHomNay": [
     {
       "id": 1,
-      "hinhAnh": "./img/item1.png",
+      "img": "GoiYHomNay/item_1.png",
       "title": "Dành cho bạn"
     },
 
     {
       "id": 2,
-      "hinhAnh": "./img/item2.png",
+      "img": "GoiYHomNay/item_2.png",
       "title": "Rẻ mỗi ngày"
     },
 
     {
       "id": 3,
-      "hinhAnh": "./img/item3.png",
+      "img": "GoiYHomNay/item_3.png",
       "title": "Freeship"
     },
 
     {
       "id": 4,
-      "hinhAnh": "./img/item4.png",
+      "img": "GoiYHomNay/item_4.png",
       "title": "Astra plus"
     },
 
     {
       "id": 5,
-      "hinhAnh": "./img/item5.png",
+      "img": "GoiYHomNay/item_5.png",
       "title": "Đi chợ siêu sale"
     },
 
     {
       "id": 6,
-      "hinhAnh": "./img/item6.png",
+      "img": "GoiYHomNay/item_6.png",
       "title": "Dịch vụ số"
     }
   ],
