@@ -318,7 +318,7 @@
   "giaTotHomNay": [
     {
       "id": 1,
-      "hinhAnh": "GiaTotHomNay/item_1.jpg",
+      "img": "GiaTotHomNay/item_1.jpg",
       "fast": "GiaTotHomNay/shipperFast.jpg",
       "discount": "12%",
       "price": "52.000",
@@ -327,7 +327,7 @@
 
     {
       "id": 2,
-      "hinhAnh": "GiaTotHomNay/item_2.jpg",
+      "img": "GiaTotHomNay/item_2.jpg",
       "fast": "GiaTotHomNay/shipperFast.jpg",
       "discount": "29%",
       "price": "127.000",
@@ -336,7 +336,7 @@
 
     {
       "id": 3,
-      "hinhAnh": "GiaTotHomNay/item_3.jpg",
+      "img": "GiaTotHomNay/item_3.jpg",
       "fast": "GiaTotHomNay/shipperFast.jpg",
       "discount": "13%",
       "price": "117.000",
@@ -345,7 +345,7 @@
 
     {
       "id": 4,
-      "hinhAnh": "GiaTotHomNay/item_4.jpg",
+      "img": "GiaTotHomNay/item_4.jpg",
       "fast": "GiaTotHomNay/shipperFast.jpg",
       "discount": "40%",
       "price": "41.000",
@@ -354,7 +354,7 @@
 
     {
       "id": 5,
-      "hinhAnh": "GiaTotHomNay/item_5.jpg",
+      "img": "GiaTotHomNay/item_5.jpg",
       "fast": "GiaTotHomNay/shipperFast.jpg",
       "discount": "41%",
       "price": "109.000",
@@ -363,7 +363,7 @@
 
     {
       "id": 6,
-      "hinhAnh": "GiaTotHomNay/item_6.jpg",
+      "img": "GiaTotHomNay/item_6.jpg",
       "fast": "GiaTotHomNay/shipperFast.jpg",
       "discount": "35%",
       "price": "520.000",
@@ -371,7 +371,7 @@
     },
       {
       "id": 7,
-      "hinhAnh": "GiaTotHomNay/item_7.jpg",
+      "img": "GiaTotHomNay/item_7.jpg",
       "fast": "GiaTotHomNay/shipperFast.jpg",
       "discount": "12%",
       "price": "650.000",
@@ -380,7 +380,7 @@
 
       {
       "id": 8,
-      "hinhAnh": "GiaTotHomNay/item_8.jpg",
+      "img": "GiaTotHomNay/item_8.jpg",
       "fast": "GiaTotHomNay/shipperFast.jpg",
       "discount": "38%",
       "price": "185.000",
@@ -389,7 +389,7 @@
 
       {
       "id": 9,
-      "hinhAnh": "GiaTotHomNay/item_9.jpg",
+      "img": "GiaTotHomNay/item_9.jpg",
       "fast": "GiaTotHomNay/shipperFast.jpg",
       "discount": "12%",
       "price": "651.000",
@@ -397,7 +397,7 @@
     },
       {
       "id": 10,
-      "hinhAnh": "GiaTotHomNay/item_10.jpg",
+      "img": "GiaTotHomNay/item_10.jpg",
       "fast": "GiaTotHomNay/shipperFast.jpg",
       "discount": "9%",
       "price": "279.000",
@@ -406,7 +406,7 @@
 
       {
       "id": 11,
-      "hinhAnh": "GiaTotHomNay/item_11.jpg",
+      "img": "GiaTotHomNay/item_11.jpg",
       "fast": "GiaTotHomNay/shipperFast.jpg",
       "discount": "42%",
       "price": "126.000",
@@ -415,7 +415,7 @@
 
       {
       "id": 12,
-      "hinhAnh": "GiaTotHomNay/item_12.jpg",
+      "img": "GiaTotHomNay/item_12.jpg",
       "fast": "GiaTotHomNay/shipperFast.jpg",
       "discount": "38%",
       "price": "185.000",
@@ -425,7 +425,7 @@
 
       {
       "id": 13,
-      "hinhAnh": "GiaTotHomNay/item_13.jpg",
+      "img": "GiaTotHomNay/item_13.jpg",
       "fast": "GiaTotHomNay/shipperFast.jpg",
       "discount": "25%",
       "price": "62.000",
@@ -434,7 +434,7 @@
 
       {
       "id": 14,
-      "hinhAnh": "GiaTotHomNay/item_14.jpg",
+      "img": "GiaTotHomNay/item_14.jpg",
       "fast": "GiaTotHomNay/shipperFast.jpg",
       "discount": "158",
       "price": "250.000",
@@ -442,7 +442,7 @@
     },
       {
       "id": 15,
-      "hinhAnh": "GiaTotHomNay/item_15.jpg",
+      "img": "GiaTotHomNay/item_15.jpg",
       "fast": "GiaTotHomNay/shipperFast.jpg",
       "discount": "29%",
       "price": "141.000",
@@ -451,7 +451,7 @@
 
       {
       "id": 16,
-      "hinhAnh": "GiaTotHomNay/item_16.jpg",
+      "img": "GiaTotHomNay/item_16.jpg",
       "fast": "GiaTotHomNay/shipperFast.jpg",
       "discount": "40%",
       "price": "459.000",
@@ -459,7 +459,7 @@
     },
       {
       "id": 17,
-      "hinhAnh": "GiaTotHomNay/item_17.jpg",
+      "img": "GiaTotHomNay/item_17.jpg",
       "fast": "GiaTotHomNay/shipperFast.jpg",
       "discount": "56%",
       "price": "271.000",
@@ -467,7 +467,7 @@
     },
       {
       "id": 18,
-      "hinhAnh": "GiaTotHomNay/item_18.jpg",
+      "img": "GiaTotHomNay/item_18.jpg",
       "fast": "GiaTotHomNay/shipperFast.jpg",
       "discount": "42%",
       "price": "1.039.000",
@@ -478,39 +478,39 @@
   "hangThuongHieuGiaTot": [
     {
       "id": 1,
-      "hinhAnh": "HangThuongHieuGiaTot/item_1.png"
+      "img": "HangThuongHieuGiaTot/item_1.png"
     },
     {
       "id": 2,
-      "hinhAnh": "HangThuongHieuGiaTot/item2_1.png"
+      "img": "HangThuongHieuGiaTot/item2_1.png"
     },
     {
       "id": 3,
-      "hinhAnh": "HangThuongHieuGiaTot/item2_2.png"
+      "img": "HangThuongHieuGiaTot/item2_2.png"
     },
     {
       "id": 4,
-      "hinhAnh": "HangThuongHieuGiaTot/item_3.png"
+      "img": "HangThuongHieuGiaTot/item_3.png"
     },
     {
       "id": 5,
-      "hinhAnh": "HangThuongHieuGiaTot/item4_1.png"
+      "img": "HangThuongHieuGiaTot/item4_1.png"
     },
     {
       "id": 6,
-      "hinhAnh": "HangThuongHieuGiaTot/item4_2.png"
+      "img": "HangThuongHieuGiaTot/item4_2.png"
     },
     {
       "id": 7,
-      "hinhAnh": "HangThuongHieuGiaTot/item_5.png"
+      "img": "HangThuongHieuGiaTot/item_5.png"
     },
     {
       "id": 8,
-      "hinhAnh": "HangThuongHieuGiaTot/item6_1.png"
+      "img": "HangThuongHieuGiaTot/item6_1.png"
     },
     {
       "id": 9,
-      "hinhAnh": "HangThuongHieuGiaTot/item6_2.png"
+      "img": "HangThuongHieuGiaTot/item6_2.png"
     }
   ],
   "danhMucNoiBat": [
