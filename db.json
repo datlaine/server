@@ -277,37 +277,42 @@
     {
       "id": 1,
       "title": "Phiên bản giới hạn Super Hero",
-      "img": "./img/brand1.jpg"
+      "img": "ThuongHieuChinhHang/item_1.jpg"
     },
 
     {
       "id": 2,
       "title": "Mua là có quà",
-      "img": "./img/brand2.jpg"
-    },
+      "img": "ThuongHieuChinhHang/item_2.jpg"
+
+	},
 
     {
       "id": 3,
       "title": "Nviea Ưa đãi đến 20%",
-      "img": "./img/brand3.jpg"
-    },
+      "img": "ThuongHieuChinhHang/item_3.jpg"
+
+	},
 
     {
       "id": 4,
       "title": "Văn học tuyển chọn - Giảm đến 50%",
-      "img": "./img/brand4.jpg"
-    },
+      "img": "ThuongHieuChinhHang/item_4.jpg"
+
+	},
 
     {
       "id": 5,
       "title": "Mua là có quà Voucher đến 60%",
-      "img": "./img/brand5.jpg"
+      "img": "ThuongHieuChinhHang/item_5.jpg"
+      
     },
 
     {
       "id": 6,
       "title": "Mua là có quà Giảm đến 35%",
-      "img": "./img/brand6.jpg"
+      "img": "ThuongHieuChinhHang/item_6.jpg"
+      
     }
   ],
   "giaTotHomNay": [
@@ -473,39 +478,39 @@
   "hangThuongHieuGiaTot": [
     {
       "id": 1,
-      "hinhAnh": "./img/item1.png"
+      "hinhAnh": "HangThuongHieuGiaTot/item_1.png"
     },
     {
       "id": 2,
-      "hinhAnh": "./img/item2_1.png"
+      "hinhAnh": "HangThuongHieuGiaTot/item2_1.png"
     },
     {
       "id": 3,
-      "hinhAnh": "./img/item2_2.png"
+      "hinhAnh": "HangThuongHieuGiaTot/item2_2.png"
     },
     {
       "id": 4,
-      "hinhAnh": "./img/item3.png"
+      "hinhAnh": "HangThuongHieuGiaTot/item_3.png"
     },
     {
       "id": 5,
-      "hinhAnh": "./img/item4_1.png"
+      "hinhAnh": "HangThuongHieuGiaTot/item4_1.png"
     },
     {
       "id": 6,
-      "hinhAnh": "./img/item4_2.png"
+      "hinhAnh": "HangThuongHieuGiaTot/item4_2.png"
     },
     {
       "id": 7,
-      "hinhAnh": "./img/item5.png"
+      "hinhAnh": "HangThuongHieuGiaTot/item_5.png"
     },
     {
       "id": 8,
-      "hinhAnh": "./img/item6_1.png"
+      "hinhAnh": "HangThuongHieuGiaTot/item6_1.png"
     },
     {
       "id": 9,
-      "hinhAnh": "./img/item6_2.png"
+      "hinhAnh": "HangThuongHieuGiaTot/item6_2.png"
     }
   ],
   "danhMucNoiBat": [
