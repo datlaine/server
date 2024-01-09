@@ -5,7 +5,7 @@
       "title": "Giá tốt mỗi ngày",
       "desc": "giaToiMoiNgay",
       "item": "Nổi bật",
-      "imgSrc": "img/noiBat/giaTotMoiNgay.jpg"
+      "imgSrc": "./img/noiBat/giaToiMoiNgay.jpg"
     },
 
     {
@@ -13,7 +13,7 @@
       "title": "Mã giảm giá",
       "desc": "maGiamGia",
       "item": "Nổi bật",
-      "imgSrc": "img/noiBat/maGiamGia.jpg"
+      "imgSrc": "./img/noiBat/maGiamGia.jpg"
     },
 
     {
@@ -21,7 +21,7 @@
       "title": "Ưa đãi Affiliate",
       "desc": "uaDaiAffiliate",
       "item": "Nổi bật",
-      "imgSrc": "img/noiBat/uaDai.jpg"
+      "imgSrc": "./img/noiBat/uaDai.jpg"
     },
 
     {
@@ -29,7 +29,7 @@
       "title": "Đóng tiền, nạp thẻ",
       "desc": "dongTienNapThe",
       "item": "Nổi bật",
-      "imgSrc": "img/noiBat/dongTienNapThe.jpg"
+      "imgSrc": "./img/noiBat/dongTienNapThe.jpg"
     },
 
     {
@@ -37,7 +37,7 @@
       "title": "Mua trước trả sau",
       "desc": "muaTruocTraSau",
       "item": "Nổi bật",
-      "imgSrc": "img/noiBat/muaTruocTraSau.jpg"
+      "imgSrc": "./img/noiBat/muaTruocTraSau.jpg"
     },
 
     {
@@ -45,7 +45,7 @@
       "title": "Ưa đãi thẻ, ví",
       "desc": "uaDaiTheVi",
       "item": "Nổi bật",
-      "imgSrc": "img/noiBat/uaDaiTheVip.jpg"
+      "imgSrc": "./img/noiBat/uaDaiTheVi.jpg"
     },
 
     {
@@ -53,7 +53,7 @@
       "title": "Bảo hiểm Tiki360",
       "desc": "baoHiemTiki360",
       "item": "Nổi bật",
-      "imgSrc": "img/noiBat/baoHiemTiki360.jpg"
+      "imgSrc": "./img/noiBat/baoHiemTiki360.jpg"
     },
 
     {
@@ -61,7 +61,7 @@
       "title": "Tiki Exchange",
       "desc": "tikiExchange",
       "item": "Nổi bật",
-      "imgSrc": "img/noiBat/tikiExchange.jpg"
+      "imgSrc": "./img/noiBat/tikiExchange.jpg"
     }
   ],
   "danhMuc": [
@@ -70,7 +70,7 @@
       "title": "Đồ chơi - Mẹ & bé",
       "desc": "doChoiMeVaBe",
       "item": "Danh mục",
-      "imgSrc": "img/danhMuc/doChoiMeVaBe.jpg"
+      "imgSrc": "./img/danhMuc/doChoiMeVaBe.jpg"
     },
 
     {
@@ -78,7 +78,7 @@
       "title": "NGON",
       "desc": "ngon",
       "item": "Danh mục",
-      "imgSrc": "img/danhMuc/ngon.jpg"
+      "imgSrc": "./img/danhMuc/ngon.jpg"
     },
 
     {
@@ -86,7 +86,7 @@
       "title": "Điện thoại - Máy tính bảng",
       "desc": "dienThoaiMayTinhBang",
       "item": "Danh mục",
-      "imgSrc": "img/danhMuc/dienThoaiMayTinhBang.jpg"
+      "imgSrc": "./img/danhMuc/dienThoaiMayTinhBang.jpg"
     },
 
     {
@@ -94,7 +94,7 @@
       "title": "Làm đẹp - sức khỏe",
       "desc": "lamDepSucKhoe",
       "item": "Danh mục",
-      "imgSrc": "img/danhMuc/lamDepSucKhoe.jpg"
+      "imgSrc": "./img/danhMuc/lamDepSucKhoe.jpg"
     },
 
     {
@@ -102,7 +102,7 @@
       "title": "Điện gia dụng",
       "desc": "dienGiaDung",
       "item": "Danh mục",
-      "imgSrc": "img/danhMuc/dienGiaDung.jpg"
+      "imgSrc": "./img/danhMuc/dienGiaDung.jpg"
     },
 
     {
@@ -110,7 +110,7 @@
       "title": "Thời trang nữ",
       "desc": "thoiTrangNu",
       "item": "Danh mục",
-      "imgSrc": "img/danhMuc/thoiTrangNu.jpg"
+      "imgSrc": "./img/danhMuc/thoiTrangNu.jpg"
     },
 
     {
@@ -118,7 +118,7 @@
       "title": "Thời trang nam",
       "desc": "thoiTrangNam",
       "item": "Danh mục",
-      "imgSrc": "img/danhMuc/thoiTrangNam.jpg"
+      "imgSrc": "./img/danhMuc/thoiTrangNam.jpg"
     },
 
     {
@@ -126,7 +126,7 @@
       "title": "Giày - dép nữ",
       "desc": "giayDepNu",
       "item": "Danh mục",
-      "imgSrc": "img/danhMuc/giayDepNu.jpg"
+      "imgSrc": "./img/danhMuc/giayDepNu.jpg"
     },
 
     {
@@ -134,7 +134,7 @@
       "title": "Túi thời trang nữ",
       "desc": "tuiThoiTrangNu",
       "item": "Danh mục",
-      "imgSrc": "img/danhMuc/tuiThoiTrangNu.jpg"
+      "imgSrc": "./img/danhMuc/tuiThoiTrangNu.jpg"
     },
 
     {
@@ -142,7 +142,7 @@
       "title": "Giày - dép nam",
       "desc": "giayDepNam",
       "item": "Danh mục",
-      "imgSrc": "img/danhMuc/giayDepNam.jpg"
+      "imgSrc": "./img/danhMuc/giayDepNam.jpg"
     },
 
     {
@@ -150,7 +150,7 @@
       "title": "Túi thời trang nam",
       "desc": "tuiThoiTrangNam",
       "item": "Danh mục",
-      "imgSrc": "img/danhMuc/tuiThoiTrangNam.jpg"
+      "imgSrc": "./img/danhMuc/tuiThoiTrangNam.jpg"
     },
 
     {
@@ -158,7 +158,7 @@
       "title": "Balo và Vali",
       "desc": "baloVaVali",
       "item": "Danh mục",
-      "imgSrc": "img/danhMuc/baloVaVali.jpg"
+      "imgSrc": "./img/danhMuc/baloVaVali.jpg"
     },
 
     {
@@ -166,7 +166,7 @@
       "title": "Phụ kiện thời trang",
       "desc": "phuKienThoiTrang",
       "item": "Danh mục",
-      "imgSrc": "img/danhMuc/phuKienThoiTrang.jpg"
+      "imgSrc": "./img/danhMuc/phuKienThoiTrang.jpg"
     },
 
     {
@@ -174,7 +174,7 @@
       "title": "Đồng hồ và trang sức",
       "desc": "dongHoVaTrangSuc",
       "item": "Danh mục",
-      "imgSrc": "img/danhMuc/dongHoVaTrangSuc.jpg"
+      "imgSrc": "./img/danhMuc/dongHoVaTrangSuc.jpg"
     },
 
     {
@@ -182,7 +182,7 @@
       "title": "Laptop - Máy vi tính - Linh kiện",
       "desc": "laptopMayViTinhLinhKien",
       "item": "Danh mục",
-      "imgSrc": "img/danhMuc/laptopMayViTinhLinhKien.jpg"
+      "imgSrc": "./img/danhMuc/laptopMayViTinhLinhKien.jpg"
     },
 
     {
@@ -190,7 +190,7 @@
       "title": "Nhà cửa - Đời sống",
       "desc": "nhaCuaDoiSong",
       "item": "Danh mục",
-      "imgSrc": "img/danhMuc/nhaCuaDoiSong.jpg"
+      "imgSrc": "./img/danhMuc/nhaCuaDoiSong.jpg"
     },
 
     {
@@ -198,7 +198,7 @@
       "title": "Cross Border",
       "desc": "hangQuocTe",
       "item": "Danh mục",
-      "imgSrc": "img/danhMuc/hangQuocTe.jpg"
+      "imgSrc": "./img/danhMuc/hangQuocTe.jpg"
     },
 
     {
@@ -206,7 +206,7 @@
       "title": "Bách Hóa Online",
       "desc": "bachHoaOnline",
       "item": "Danh mục",
-      "imgSrc": "img/danhMuc/bachHoaOnline.jpg"
+      "imgSrc": "./img/danhMuc/bachHoaOnline.jpg"
     },
 
     {
@@ -214,7 +214,7 @@
       "title": "Thiết bị số - Phụ kiện số",
       "desc": "thietBiSoVaPhuKienSo",
       "item": "Danh mục",
-      "imgSrc": "img/danhMuc/thietBiSoVaPhuKienSo.jpg"
+      "imgSrc": "./img/danhMuc/thietBiSoVaPhuKienSo.jpg"
     },
 
     {
@@ -222,7 +222,7 @@
       "title": "Xe hơi - Xe máy - Xe đạp",
       "desc": "otoXeMayVaXeDap",
       "item": "Danh mục",
-      "imgSrc": "img/danhMuc/otoXeMayVaXeDap.jpg"
+      "imgSrc": "./img/danhMuc/otoXeMayVaXeDap.jpg"
     },
 
     {
@@ -230,7 +230,7 @@
       "title": "Nhà sách Tiki",
       "desc": "nhaSachTiki",
       "item": "Danh mục",
-      "imgSrc": "img/danhMuc/nhaSachTiki.jpg"
+      "imgSrc": "./img/danhMuc/nhaSachTiki.jpg"
     },
 
     {
@@ -238,7 +238,7 @@
       "title": "Voucher - Dịch vụ",
       "desc": "voucherVaDichVu",
       "item": "Danh mục",
-      "imgSrc": "img/danhMuc/voucherVaDichVu.jpg"
+      "imgSrc": "./img/danhMuc/voucherVaDichVu.jpg"
     },
 
     {
@@ -246,7 +246,7 @@
       "title": "Điện tử - Điện lạnh",
       "desc": "dienTuDienLanh",
       "item": "Danh mục",
-      "imgSrc": "img/danhMuc/dienTuDienLanh.jpg"
+      "imgSrc": "./img/danhMuc/dienTuDienLanh.jpg"
     },
 
     {
@@ -254,7 +254,7 @@
       "title": "Thể thao - Dã ngoại",
       "desc": "theThaoDaNgoai",
       "item": "Danh mục",
-      "imgSrc": "img/danhMuc/theThaoDaNgoai.jpg"
+      "imgSrc": "./img/danhMuc/theThaoDaNgoai.jpg"
     },
 
     {
@@ -262,7 +262,7 @@
       "title": "Máy ảnh - Máy quay phim",
       "desc": "mayAnhMayQuayPhim",
       "item": "Danh mục",
-      "imgSrc": "img/danhMuc/mayAnhMayQuayPhim.jpg"
+      "imgSrc": "./img/danhMuc/mayAnhMayQuayPhim.jpg"
     },
 
     {
@@ -270,56 +270,51 @@
       "title": "Sản phẩm tài chính - Bảo Hiểm",
       "desc": "sanPhamTaiChinhBaoHiem",
       "item": "Danh mục",
-      "imgSrc": "img/danhMuc/sanPhamTaiChinhBaoHiem.jpg"
+      "imgSrc": "./img/danhMuc/sanPhamTaiChinhBaoHiem.jpg"
     }
   ],
   "thuongHieuChinhHang": [
     {
       "id": 1,
       "title": "Phiên bản giới hạn Super Hero",
-      "img": "ThuongHieuChinhHang/item_1.jpg"
+      "img": "./img/brand1.jpg"
     },
 
     {
       "id": 2,
       "title": "Mua là có quà",
-      "img": "ThuongHieuChinhHang/item_2.jpg"
-
-	},
+      "img": "./img/brand2.jpg"
+    },
 
     {
       "id": 3,
       "title": "Nviea Ưa đãi đến 20%",
-      "img": "ThuongHieuChinhHang/item_3.jpg"
-
-	},
+      "img": "./img/brand3.jpg"
+    },
 
     {
       "id": 4,
       "title": "Văn học tuyển chọn - Giảm đến 50%",
-      "img": "ThuongHieuChinhHang/item_4.jpg"
-
-	},
+      "img": "./img/brand4.jpg"
+    },
 
     {
       "id": 5,
       "title": "Mua là có quà Voucher đến 60%",
-      "img": "ThuongHieuChinhHang/item_5.jpg"
-      
+      "img": "./img/brand5.jpg"
     },
 
     {
       "id": 6,
       "title": "Mua là có quà Giảm đến 35%",
-      "img": "ThuongHieuChinhHang/item_6.jpg"
-      
+      "img": "./img/brand6.jpg"
     }
   ],
   "giaTotHomNay": [
     {
       "id": 1,
-      "img": "GiaTotHomNay/item_1.jpg",
-      "fast": "GiaTotHomNay/shipperFast.jpg",
+      "hinhAnh": "./giaTotHomNay_img/item_1.jpg",
+      "fast": "./giaTotHomNay_img/shipperFast.jpg",
       "discount": "12%",
       "price": "52.000",
       "isBought": 7
@@ -327,8 +322,8 @@
 
     {
       "id": 2,
-      "img": "GiaTotHomNay/item_2.jpg",
-      "fast": "GiaTotHomNay/shipperFast.jpg",
+      "hinhAnh": "./giaTotHomNay_img/item_2.jpg",
+      "fast": "./giaTotHomNay_img/shipperFast.jpg",
       "discount": "29%",
       "price": "127.000",
       "isBought": 10
@@ -336,8 +331,8 @@
 
     {
       "id": 3,
-      "img": "GiaTotHomNay/item_3.jpg",
-      "fast": "GiaTotHomNay/shipperFast.jpg",
+      "hinhAnh": "./giaTotHomNay_img/item_3.jpg",
+      "fast": "./giaTotHomNay_img/shipperFast.jpg",
       "discount": "13%",
       "price": "117.000",
       "isBought": 5
@@ -345,8 +340,8 @@
 
     {
       "id": 4,
-      "img": "GiaTotHomNay/item_4.jpg",
-      "fast": "GiaTotHomNay/shipperFast.jpg",
+      "hinhAnh": "./giaTotHomNay_img/item_4.jpg",
+      "fast": "./giaTotHomNay_img/shipperFast.jpg",
       "discount": "40%",
       "price": "41.000",
       "isBought": 0
@@ -354,8 +349,8 @@
 
     {
       "id": 5,
-      "img": "GiaTotHomNay/item_5.jpg",
-      "fast": "GiaTotHomNay/shipperFast.jpg",
+      "hinhAnh": "./giaTotHomNay_img/item_5.jpg",
+      "fast": "./giaTotHomNay_img/shipperFast.jpg",
       "discount": "41%",
       "price": "109.000",
       "isBought": 1
@@ -363,154 +358,58 @@
 
     {
       "id": 6,
-      "img": "GiaTotHomNay/item_6.jpg",
-      "fast": "GiaTotHomNay/shipperFast.jpg",
+      "hinhAnh": "./giaTotHomNay_img/item_6.jpg",
+      "fast": "./giaTotHomNay_img/shipperFast.jpg",
       "discount": "35%",
       "price": "520.000",
       "isBought": 8
     },
-      {
+
+    {
       "id": 7,
-      "img": "GiaTotHomNay/item_7.jpg",
-      "fast": "GiaTotHomNay/shipperFast.jpg",
-      "discount": "12%",
-      "price": "650.000",
-      "isBought": 7
-    },
-
-      {
-      "id": 8,
-      "img": "GiaTotHomNay/item_8.jpg",
-      "fast": "GiaTotHomNay/shipperFast.jpg",
-      "discount": "38%",
-      "price": "185.000",
-      "isBought": 7
-    },
-
-      {
-      "id": 9,
-      "img": "GiaTotHomNay/item_9.jpg",
-      "fast": "GiaTotHomNay/shipperFast.jpg",
-      "discount": "12%",
-      "price": "651.000",
-      "isBought": 7
-    },
-      {
-      "id": 10,
-      "img": "GiaTotHomNay/item_10.jpg",
-      "fast": "GiaTotHomNay/shipperFast.jpg",
-      "discount": "9%",
-      "price": "279.000",
-      "isBought": 5
-    },
-
-      {
-      "id": 11,
-      "img": "GiaTotHomNay/item_11.jpg",
-      "fast": "GiaTotHomNay/shipperFast.jpg",
-      "discount": "42%",
-      "price": "126.000",
-      "isBought": 3
-    },
-
-      {
-      "id": 12,
-      "img": "GiaTotHomNay/item_12.jpg",
-      "fast": "GiaTotHomNay/shipperFast.jpg",
-      "discount": "38%",
-      "price": "185.000",
-      "isBought": 7
-    },
-
-
-      {
-      "id": 13,
-      "img": "GiaTotHomNay/item_13.jpg",
-      "fast": "GiaTotHomNay/shipperFast.jpg",
-      "discount": "25%",
-      "price": "62.000",
-      "isBought":3
-    },
-
-      {
-      "id": 14,
-      "img": "GiaTotHomNay/item_14.jpg",
-      "fast": "GiaTotHomNay/shipperFast.jpg",
-      "discount": "158",
-      "price": "250.000",
-      "isBought": 3
-    },
-      {
-      "id": 15,
-      "img": "GiaTotHomNay/item_15.jpg",
-      "fast": "GiaTotHomNay/shipperFast.jpg",
-      "discount": "29%",
-      "price": "141.000",
-      "isBought": 7
-    },
-
-      {
-      "id": 16,
-      "img": "GiaTotHomNay/item_16.jpg",
-      "fast": "GiaTotHomNay/shipperFast.jpg",
-      "discount": "40%",
-      "price": "459.000",
-      "isBought": 4
-    },
-      {
-      "id": 17,
-      "img": "GiaTotHomNay/item_17.jpg",
-      "fast": "GiaTotHomNay/shipperFast.jpg",
-      "discount": "56%",
-      "price": "271.000",
-      "isBought": 2
-    },
-      {
-      "id": 18,
-      "img": "GiaTotHomNay/item_18.jpg",
-      "fast": "GiaTotHomNay/shipperFast.jpg",
-      "discount": "42%",
-      "price": "1.039.000",
+      "hinhAnh": "./giaTotHomNay_img/item_7.jpg",
+      "fast": "./giaTotHomNay_img/shipperFast.jpg",
+      "discount": "35%",
+      "price": "713.000",
       "isBought": 7
     }
-
   ],
   "hangThuongHieuGiaTot": [
     {
       "id": 1,
-      "img": "HangThuongHieuGiaTot/item_1.png"
+      "hinhAnh": "./img/item1.png"
     },
     {
       "id": 2,
-      "img": "HangThuongHieuGiaTot/item2_1.png"
+      "hinhAnh": "./img/item2_1.png"
     },
     {
       "id": 3,
-      "img": "HangThuongHieuGiaTot/item2_2.png"
+      "hinhAnh": "./img/item2_2.png"
     },
     {
       "id": 4,
-      "img": "HangThuongHieuGiaTot/item_3.png"
+      "hinhAnh": "./img/item3.png"
     },
     {
       "id": 5,
-      "img": "HangThuongHieuGiaTot/item4_1.png"
+      "hinhAnh": "./img/item4_1.png"
     },
     {
       "id": 6,
-      "img": "HangThuongHieuGiaTot/item4_2.png"
+      "hinhAnh": "./img/item4_2.png"
     },
     {
       "id": 7,
-      "img": "HangThuongHieuGiaTot/item_5.png"
+      "hinhAnh": "./img/item5.png"
     },
     {
       "id": 8,
-      "img": "HangThuongHieuGiaTot/item6_1.png"
+      "hinhAnh": "./img/item6_1.png"
     },
     {
       "id": 9,
-      "img": "HangThuongHieuGiaTot/item6_2.png"
+      "hinhAnh": "./img/item6_2.png"
     }
   ],
   "danhMucNoiBat": [
@@ -552,37 +451,37 @@
   "goiYHomNay": [
     {
       "id": 1,
-      "img": "GoiYHomNay/item_1.png",
+      "hinhAnh": "./img/item1.png",
       "title": "Dành cho bạn"
     },
 
     {
       "id": 2,
-      "img": "GoiYHomNay/item_2.png",
+      "hinhAnh": "./img/item2.png",
       "title": "Rẻ mỗi ngày"
     },
 
     {
       "id": 3,
-      "img": "GoiYHomNay/item_3.png",
+      "hinhAnh": "./img/item3.png",
       "title": "Freeship"
     },
 
     {
       "id": 4,
-      "img": "GoiYHomNay/item_4.png",
+      "hinhAnh": "./img/item4.png",
       "title": "Astra plus"
     },
 
     {
       "id": 5,
-      "img": "GoiYHomNay/item_5.png",
+      "hinhAnh": "./img/item5.png",
       "title": "Đi chợ siêu sale"
     },
 
     {
       "id": 6,
-      "img": "GoiYHomNay/item_6.png",
+      "hinhAnh": "./img/item6.png",
       "title": "Dịch vụ số"
     }
   ],
